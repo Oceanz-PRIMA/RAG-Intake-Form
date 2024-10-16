@@ -9,3 +9,8 @@ netlify dev
 
 Your serverless functions will be accessible at:
 http://localhost:8888/.netlify/functions/hello
+
+
+#To Deploy to Production use below command
+
+netlify deploy --prod
